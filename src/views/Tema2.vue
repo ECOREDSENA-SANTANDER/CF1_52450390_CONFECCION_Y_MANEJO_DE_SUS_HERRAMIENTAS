@@ -59,7 +59,7 @@
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 Partes del cabezote de la máquina plana 
 
-    p.mb-4(data-aos="fade-right") Estudiemos las partes del cabezote de la máquina plana
+    p.mb-4(data-aos="fade-right") Las partes de la maquina plana son:
 
     .row.justify-content-center.align-items-end.mb-4(data-aos="fade-right")
       .col-lg-6
