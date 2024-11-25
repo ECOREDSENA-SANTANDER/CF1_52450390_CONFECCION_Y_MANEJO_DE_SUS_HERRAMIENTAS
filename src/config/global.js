@@ -124,20 +124,23 @@ export default {
   },
   complementario: [
     {
-      tema: 'Trazo sistematizado',
-      referencia: '',
+      tema: '3. Tipos de corte -Trazo sistematizado',
+      referencia:
+        'Herramientas digitales Moda. (15 de marzo de 2018). OPTITEX - MARKER Trazo de patrones. [archivo de video]. Youtube.',
       tipo: 'video',
       link: 'https://youtu.be/fscxWYsenLE',
     },
     {
-      tema: 'Corte con trazo manual',
-      referencia: '',
+      tema: '3. Tipos de corte- Corte con trazo manual',
+      referencia:
+        'bykkis DISTRIBUIDORA HYD KESCOEIVANNA. (24 de agosto de 2021). Cómo hacer un trazo con moldes para hacer un corte  como hago un trazo  bykkis. [archivo de video]. Youtube.',
       tipo: 'video',
       link: 'https://youtu.be/2EkELdwTkew',
     },
     {
-      tema: 'Corte industrial',
-      referencia: '',
+      tema: '3. Tipos de corte- Corte industrial',
+      referencia:
+        'XParimal. (4 de noviembre de 2023). fabric cutting cutting machine operator. [archivo de video]. Youtube.',
       tipo: 'video',
       link: 'https://youtu.be/V3zxsruHRyI',
     },

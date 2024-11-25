@@ -13,8 +13,8 @@
 
     figure(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/S4SxzXo-6tI?si=V16x_w-W2u6liX2X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-      figcaption Video: Diseño de contenidos digitales
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/gWLv-x2PMYo?si=KyWFZ5ovETBJvKxn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video: Corte, herramientas y máquinas
 
 </template>
 
