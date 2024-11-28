@@ -43,7 +43,7 @@
         img.img-a.img-t.mb-3.left(src='@/assets/curso/temas/img4.svg', alt='')
         p.mb-4 #[b 1. Botón de encendido:] el botón de encendido, sirve para conectar o desconectar el motor de la máquina a través de él.
         img.img-a.img-t.mb-3.left(src='@/assets/curso/temas/img5.svg', alt='')
-        p.mb-4 #[b 2. Motor interno:] el motor interno costa de una correa de transmisión, también llamada faja, la cual es el nexo entre el cabezal y el motor, este último transmite fuerza por medio de un movimiento de rotación hasta la polea del volante y esta acoplada al eje del volante.
+        p.mb-4 #[b 2. Motor interno:] el motor interno consta de una correa de transmisión, también llamada faja, la cual es el nexo entre el cabezal y el motor, este último transmite fuerza por medio de un movimiento de rotación hasta la polea del volante y esta acoplada al eje del volante.
         img.img-a.img-t.mb-3.left(src='@/assets/curso/temas/img6.svg', alt='')
         p.mb-4 #[b 3. Pedal de velocidad:] el pedal de velocidad es la parte de la máquina ligada al motor por una barra o cadena, su función es poner la máquina en movimiento y controlar la velocidad de sus puntadas.
         img.img-a.img-t.mb-3.left(src='@/assets/curso/temas/img7.svg', alt='')
@@ -52,7 +52,7 @@
         img.img-a.img-t.mb-3.left(src='@/assets/curso/temas/img8.svg', alt='')
         p.mb-4 #[b 5. El arrastre y pie:] tienen un mecanismo mediante el cual la tela es arrastrada y movida hacia adelante, sobre la base de la máquina.
         img.img-a.img-t.mb-3.left(src='@/assets/curso/temas/img9.svg', alt='')
-        p.mb-4 #[b 6. Aguja_] la aguja produce una serie de puntadas de acuerdo con la selección efectuada por el o la costurera(o). Generalmente se ejecuta la puntada doble llamada de pespunte.
+        p.mb-4 #[b 6. Aguja:] la aguja produce una serie de puntadas de acuerdo con la selección efectuada por el o la costurera(o). Generalmente se ejecuta la puntada doble llamada de pespunte.
         img.img-a.img-t.mb-3.left(src='@/assets/curso/temas/img10.svg', alt='')
         p.mb-4 #[b 7. Bobina:] la bobina se encuentra en la parte inferior de la máquina en la zona de carga para el hilo secundario. 
 

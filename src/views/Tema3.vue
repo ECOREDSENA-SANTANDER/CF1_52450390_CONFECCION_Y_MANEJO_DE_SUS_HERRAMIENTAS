@@ -20,7 +20,7 @@
                     .col-lg-2
                       img.img-a.img-t.mb-4(src='@/assets/curso/temas/img31.svg', alt='')
                     .col-lg-10.pe-lg-5
-                      p.mb-0.pe-lg-5 El corte industrial, es el que se realiza cortando muchas tallas y capas de tela a la vez, para lograr esto es necesario usar una máquina cortadora, de la cual existen muchos tipos, las mas comunes son, la cortadora vertical y la cortadora circular. Analicemos cada una:
+                      p.mb-0.pe-lg-5 El corte industrial, es el que se realiza cortando muchas tallas y capas de tela a la vez, para lograr esto es necesario usar una máquina cortadora, de la cual existen muchos tipos, las más comunes son, la cortadora vertical y la cortadora circular. Analicemos cada una:
           .col-lg-3.sob.d-none.d-lg-block
             img(src="@/assets/curso/temas/img30.svg", alt="alt").img250
   
@@ -29,7 +29,7 @@
     .row.justify-content-center(data-aos="fade-down")
       .col-md-6.col-lg-4.col-12.mb-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/img32.svg' alt='')
+          img.icono-cambia1(src='@/assets/curso/temas/img32.svg' alt='')
           .tarjeta.bg3
             .p-4.my-3
               h4.mb-4.text-center Cortadora vertical 
@@ -37,15 +37,15 @@
     
       .col-md-6.col-lg-4.col-12.mb-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/img33.svg' alt='')
+          img.icono-cambia1(src='@/assets/curso/temas/img33.svg' alt='')
           .tarjeta.bg3
             .p-4.my-3
               h4.mb-4.text-center Cortadora circular 
-              p.mb-0.text-center Este tipo de cortadoras es usado para cortes más pequeños, ósea que la cantidad de capas de tela debe tener un alto menor a 4 pulgadas.
+              p.mb-0.text-center Este tipo de cortadoras es usado para cortes más pequeños, ó sea que la cantidad de capas de tela debe tener un alto menor a 4 pulgadas.
 
       .col-md-6.col-lg-4.col-12.mb-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/img34.svg' alt='')
+          img.icono-cambia1(src='@/assets/curso/temas/img34.svg' alt='')
           .tarjeta.bg3
             .p-4.my-3
               h4.mb-4.text-center Corte manual 
@@ -171,7 +171,7 @@
           img.icono-cambia(src='@/assets/curso/temas/img44.svg' alt='')
           .tarjeta.bg3
             .p-4.my-3
-              p.mb-0.text-center #[b i.] Luego de tener todas las piezas cortadas, se tiquetean cada una de las capas de tela de cada pieza, ya que con esto evitamos que en el momento de confeccionar la prenda no se vallan a revolver las tallas y/o colores de las telas.
+              p.mb-0.text-center #[b i.] Luego de tener todas las piezas cortadas, se tiquetean cada una de las capas de tela de cada pieza, ya que con esto evitamos que en el momento de confeccionar la prenda no se vayan a revolver las tallas y/o colores de las telas.
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-md-10.col-lg-4.col-12.mb-4
