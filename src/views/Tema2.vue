@@ -34,7 +34,7 @@
           .col-lg-6
             .titulo-sexto.color-secundario.mb-5
               h5 Figura 1. 
-              | Partes de la maquina básica.
+              | Partes de la máquina básica.
             img.img-a.img-t.mb-4(src='@/assets/curso/temas/img3.svg', alt='En la figura se señalan las siguientes partes de la máquina básica: -Boton de encendido - Motor interno -Pedal de velocidad -Base de trabajo -El arrastre y pie -Aguja -Bobina')
             figcaption.whi Fuente SENA
 
@@ -59,13 +59,13 @@
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 Partes del cabezote de la máquina plana 
 
-    p.mb-4(data-aos="fade-right") Las partes de la maquina plana son:
+    p.mb-4(data-aos="fade-right") Las partes de la máquina plana son:
 
     .row.justify-content-center.align-items-end.mb-4(data-aos="fade-right")
       .col-lg-6
         .titulo-sexto.color-secundario.mb-2
           h5 Figura 2. 
-          | Partes del cabezote de la maquina plana.
+          | Partes del cabezote de la máquina plana.
         img.img-a.img-t.mb-0(src='@/assets/curso/temas/img24.png', alt='En la figura se identifican cada una de las partes de la máquina.')
         figcaption.whi Fuente SENA
 
@@ -118,9 +118,9 @@
           .col-lg-8
             .titulo-sexto.color-secundario.mb-5
               h5 Figura 3. 
-              | Partes de la maquina familiar.
-            img.img-a.img-t.mb-4(src='@/assets/curso/temas/img25.svg', alt='En la figura se mencionan las diferentes partes de la Maquina familiar: -Botón de puntada reversa -Selector de longitud de puntada -Tope del canillero -Eje del devanador de canillas -Porta carretes -Ajuste tensión del hilo superior -Guía hilos del hilo de la canilla -Palanca tira-hilos -Tapa frontal -Cortahílos -Placa de aguja -Mesa supletoria -Selector de puntada ')
-
+              | Partes de la máquina familiar.
+            img.img-a.img-t.mb-0(src='@/assets/curso/temas/imagen1.png', alt='En la figura se mencionan las diferentes partes de la Máquina familiar: -Botón de puntada reversa -Selector de longitud de puntada -Tope del canillero -Eje del devanador de canillas -Porta carretes -Ajuste tensión del hilo superior -Guía hilos del hilo de la canilla -Palanca tira-hilos -Tapa frontal -Cortahílos -Placa de aguja -Mesa supletoria -Selector de puntada ')
+            figcaption.whi Fuente SENA
     .col-lg-5.mb-sm-0(data-aos="fade-right")
       ol.lista-ol--cuadro.lista-ol--separador
         li 
@@ -230,7 +230,7 @@
           h5 Figura 6. 
           | Puntada de seguridad.
         img.img-a.img-t.mb-4(src='@/assets/curso/temas/img29.svg', alt='La imagen ilustra una puntada de seguridad.')
-        figcaption.whi Fuente SENA
+        figcaption Fuente SENA
 </template>
 
 <script>

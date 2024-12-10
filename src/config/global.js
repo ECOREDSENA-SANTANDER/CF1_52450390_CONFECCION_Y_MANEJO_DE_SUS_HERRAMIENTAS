@@ -173,7 +173,7 @@ export default {
     {
       termino: '<em>Looper</em>',
       significado:
-        'Son tomadores de lazada que junto con las agujas forman la puntada.',
+        'Son tomadores de lazada que, junto con las agujas, forman la puntada.',
     },
     {
       termino: 'Metro',
@@ -273,7 +273,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

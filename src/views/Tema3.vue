@@ -120,8 +120,7 @@
           img.icono-cambia(src='@/assets/curso/temas/img37.svg' alt='')
           .tarjeta.bg3
             .p-4.my-3
-              p.mb-0.text-center #[b b.] Se realiza el trazo, marcando cada uno de los moldes en papel craf de 1,50mt de ancho, teniendo en cuenta el ancho de la tela y buscando organizar los moldes de la manera mas ordenada para evitar desperdicios de tela.
-
+              p.mb-0.text-center #[b b.] Se realiza el trazo, marcando cada uno de los moldes en papel craf de 1,50 mt de ancho, teniendo en cuenta el ancho de la tela y buscando organizar los moldes de la manera más ordenada para evitar desperdicios de tela.
       .col-md-6.col-lg-4.col-12.mb-4
         .tarjeta-avatar
           img.icono-cambia(src='@/assets/curso/temas/img38.svg' alt='')
@@ -179,7 +178,7 @@
           img.icono-cambia(src='@/assets/curso/temas/img45.svg' alt='')
           .tarjeta.bg3
             .p-4.my-3
-              p.mb-0.text-center #[b j.] Por último se amarran todas las piezas de cada una de las tallas por prenda.
+              p.mb-0.text-center #[b j.] Por último, se amarran todas las piezas de cada una de las tallas por prenda.
   
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -205,7 +204,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-2 Consulte el video para conocer la maquina cortadora 
+                  p.mb-2 Consulte el video para conocer la máquina cortadora 
                 .col-lg-auto.pe-lg-5
                   a.boton.color-acento-botones(href="https://youtu.be/V3zxsruHRyI" target="_blank")
                     span Ir al sitio
@@ -215,7 +214,7 @@
     #t_3_2.titulo-segundo.mb-5
       h2 3.2 Ubicación de moldes para corte manual 
 
-    p.mb-4(data-aos="fade-right") La ubicación de los moldes para realizar el corte manual, es rápida y fácil. Lo único que no se puede olvidar en el momento de ubicar los moldes sobre la tela, es, conservar la línea de aplome del molde, paralelo al orillo de la tela. El corte manual, es el que se realiza con tijeras, por lo tanto se corta una sola capa.
+    p.mb-4(data-aos="fade-right") La ubicación de los moldes para realizar el corte manual, es rápida y fácil. Lo único que no se puede olvidar en el momento de ubicar los moldes sobre la tela, es, conservar la línea de aplome del molde, paralelo al orillo de la tela. El corte manual, es el que se realiza con tijeras, por lo tanto, se corta una sola capa.
 
     .row.justify-content-center
       .col-lg-10
